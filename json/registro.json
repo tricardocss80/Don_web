@@ -1,0 +1,10 @@
+{
+  "datos": {"nombre": "Juan", "apellido": "Perez", "email": "juanperezyana@gmail.com", "pais": "Argentina",
+               "telefono": "1133855874", "password": "Marcopolo60"},
+
+  "error": {"nombre": "'123?''???'", "apellido": "'123***?''???'","email": "juanlopez***'''???''" ,"password": "Mar"},
+
+  "error2":{"password": "???'''***", "email": "pepito@gmail.com"}
+
+
+}
